@@ -1,0 +1,6 @@
+framework module Pods_TableViewToCollectionView {
+  umbrella header "Pods-TableViewToCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}

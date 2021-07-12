@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_TableViewToCollectionView_TableViewToCollectionViewUITests : NSObject
+@end
+@implementation PodsDummy_Pods_TableViewToCollectionView_TableViewToCollectionViewUITests
+@end
